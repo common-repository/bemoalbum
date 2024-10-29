@@ -1,0 +1,15 @@
+/* Colorbox */
+img.bemoalbum-picture , div.album a img
+{
+  border: 10px solid white; 
+  box-shadow: 5px 5px 8px darkgrey;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+div.picture p, div.album p
+{
+	font-weight: bold;
+	/*width: 80%;
+	height: auto;*/
+}
